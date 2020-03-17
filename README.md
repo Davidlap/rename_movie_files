@@ -41,6 +41,7 @@ optional arguments:
   
  You run  plex_title_cleaner.py C:\Movies and you obtain, a clean movie file title
  
+ ```bash
  C:.
 ├───A Clockwork Orange (1971) [1080p]
 │       A Clockwork Orange (1971).mp4
@@ -51,5 +52,6 @@ optional arguments:
 └───A Plastic Ocean (2016) [1080p] [YTS.AG]
         A Plastic Ocean (2016).mp4
         
- 
+```
+
  
