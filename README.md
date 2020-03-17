@@ -28,6 +28,7 @@ optional arguments:
 │
 └───A Plastic Ocean (2016) [1080p] [YTS.AG]
         A Plastic Ocean (2016) [1080p] [YTS.AG].mp4
+
   
  You run  plex_title_cleaner.py C:\Movies and you obtain, a clean movie file title
  
