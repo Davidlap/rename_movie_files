@@ -20,14 +20,23 @@ optional arguments:
  
 
  C:.
+ 
 ├───A Clockwork Orange (1971) [1080p]
+
 │       a.clockwork.oraangeeee.mp4
+
 │
+
 ├───A Dog's Purpose (2017) [1080p] [YTS.AG]
+
 │       dogspurpose.A [1080p].mp4
+
 │
+
 └───A Plastic Ocean (2016) [1080p] [YTS.AG]
+
         A Plastic Ocean (2016) [1080p] [YTS.AG].mp4
+        
 
   
  You run  plex_title_cleaner.py C:\Movies and you obtain, a clean movie file title
