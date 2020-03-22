@@ -39,7 +39,7 @@ def obtain_movie_title(directory, split_part):
     
     # Split the full directory and get the last part
     try:
-        movie_name = directory.split(os.path.sep)[-1]
+        movie_name = directory.split(os.path.sep)[-1].replace(".", " ")
         # Split the name by the expression given by user
         movie_name = movie_name.split(split_part)
         return movie_name[0]
